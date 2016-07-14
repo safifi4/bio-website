@@ -20,20 +20,6 @@ urls:
       url: /contact/
       icon: fa-envelope
 
-
-social:
-    - icon: fa-facebook
-      link: '#'
-    - icon: fa-twitter
-      link: '#'
-    - icon: fa-github
-      link: '#'
-
-
-share:
-  twitter_username: \#
-  fb_appid: 000000000000
-
 url: "http://safifi4.github.io/bio-website"
 baseurl: "/bio-website"
 
