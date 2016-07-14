@@ -1,7 +1,7 @@
 title: Sameh Afifi
 description: Hardware & Software Developer
 author: Sameh Afifi
-logo: \img\ieee2.svg
+logo: ieee2.svg
 github: https://github.com/safifi4
 about: HW & SW Developer
 disqus_shortname: safifi4
@@ -34,9 +34,8 @@ share:
   twitter_username: \#
   fb_appid: 000000000000
 
+url: "http://safifi4.github.io/bio-website"
+baseurl: "/bio-website"
 
 enableTags: true
 tagarray: []
-
-baseurl: "/bio-website/"
-url: "http://safifi4.github.io"

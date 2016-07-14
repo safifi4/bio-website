@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img src="\img\contact.png" align="left" style="width:600px;height:300px;">
+<img src="contact.png" align="left" style="width:600px;height:300px;">
 
 <br>
 <p><font size="6"><b>

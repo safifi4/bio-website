@@ -11,8 +11,8 @@ div.black {
 </style>
 
 <div class="black">
-<a href="\img\self2.JPG">
-<img src="\img\self2.JPG" align="left" style="width:392px;height:220px;">
+<a href="self2.JPG">
+<img src="self2.JPG" align="left" style="width:392px;height:220px;">
 </a>
 </div>
 
