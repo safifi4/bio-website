@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="website" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/website" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/website" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="404.html" />
+		<Unit filename="_config.yml" />
+		<Unit filename="_includes/analytics.html" />
+		<Unit filename="_includes/navigation.html" />
+		<Unit filename="_includes/project_tags.html" />
+		<Unit filename="_includes/share-page.html" />
+		<Unit filename="_includes/sidemenu.html" />
+		<Unit filename="_includes/social_links.html" />
+		<Unit filename="_layouts/default.html" />
+		<Unit filename="_layouts/page.html" />
+		<Unit filename="_layouts/post.html" />
+		<Unit filename="_layouts/posts_by_category.html" />
+		<Unit filename="_layouts/project.html" />
+		<Unit filename="_posts/2015-07-11-welcome-to-jekyll.md" />
+		<Unit filename="_posts/2016-06-04-example-content.md" />
+		<Unit filename="_posts/2016-06-04-test-page.md" />
+		<Unit filename="category/jekyll.md" />
+		<Unit filename="category/others.md" />
+		<Unit filename="contact.md" />
+		<Unit filename="index.html" />
+		<Unit filename="main.md" />
+		<Unit filename="projects.md" />
+		<Unit filename="resume.md" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

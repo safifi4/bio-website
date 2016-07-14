@@ -1,0 +1,42 @@
+title: Sameh Afifi
+description: Hardware & Software Developer
+author: Sameh Afifi
+logo: \img\ieee2.svg
+github: https://github.com/safifi4
+about: HW & SW Developer
+disqus_shortname: safifi4
+google_analytics: UA-72862926-1
+urls:
+    - text: Home
+      url: /
+      icon: fa-home
+    - text: Resume
+      url: /resume/
+      icon: fa-mortar-board
+    - text: Projects
+      url: /projects/
+      icon: fa-gears
+    - text: Contact
+      url: /contact/
+      icon: fa-envelope
+
+
+social:
+    - icon: fa-facebook
+      link: '#'
+    - icon: fa-twitter
+      link: '#'
+    - icon: fa-github
+      link: '#'
+
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+baseurl: "/bio-website/"
+url: "http://safifi4.github.io"
