@@ -38,10 +38,11 @@ h2{
     <ul>
         <li>HTML</li>
         <li>CSS</li>
+        <li>PHP</li>
     </ul>
     <h4><ins>Embedded Systems</ins></h4>
     <ul>
-        <li>C, C++ </li>
+        <li>C, C++, Python </li>
         <li>Embedded Linux, Eclipse, IAR, Code Composer</li>
         <li>Mentor Graphics schematic design</li>
         <li>LT spice</li>
