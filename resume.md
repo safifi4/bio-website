@@ -97,7 +97,7 @@ h2{
   <h3>Dalhousie University, <small>Halifax, NS</small></h3>
   <h4>Electro Optical Engineer &nbsp;&nbsp;(2009)</h4>
   <ul>
-    <li>Developing Spectrometer software (data acquisition and processing )</li>
+    <li>Developed Spectrometer software (data acquisition and processing )</li>
     <li>Developed sun/moon tracking software using openCV computer vision library</li>
     <li>Optic assembly and mechanical parts design</li>
   </ul>
