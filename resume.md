@@ -121,11 +121,10 @@ h2{
   <ul>
     <li>Digitized acoustic data from a research vessel </li>
   </ul>
-</div>
 
 <br>
 
-<h2> align="center">Continuous Education</h2>
+<h2 align="center">Continuous Education</h2>
 <div class="black">
   <p> <u>2015</u>: Advanced Excel </p>
   <p> <u>2014</u>: Root Cause Analysis</p>
