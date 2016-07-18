@@ -39,7 +39,7 @@ h2{
         <li>C, C++, Python </li>
         <li>Embedded Linux, Eclipse, IAR, Code Composer</li>
         <li>LT spice, Mentor Graphics</li>
-        <li>Arduino, Beagle Bone, CC1110, MSP430, TMS320, ARM7, Atmega, Xmega</li>
+        <li>Beagle Bone, CC1110, MSP430, TMS320, ARM7, Atmega, Xmega</li>
     </ul>
     <h4><ins>Signal Analysis</ins></h4>
     <ul>
@@ -133,5 +133,4 @@ h2{
   <p> <u>2013</u>: Value Stream Mapping</p>
   <p> <u>2013</u>: Lean Manufacturing </p>
   <p> <u>2012</u>: Workplace Communication </p>
-
 </div>
