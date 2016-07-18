@@ -121,6 +121,7 @@ h2{
   <ul>
     <li>Digitized acoustic data from a research vessel </li>
   </ul>
+</div>
 
 <br>
 
