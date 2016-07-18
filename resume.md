@@ -124,6 +124,7 @@ h2{
 </div>
 
 <br>
+<br>
 
 <h2 align="center">Continuous Education</h2>
 <div class="black">
