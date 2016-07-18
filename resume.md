@@ -34,23 +34,22 @@ h2{
 
 <h2 align="center" >Skills</h2>
 <div class="black">
+    <h4><ins>Embedded Systems</ins></h4>
+    <ul>
+        <li>C, C++, Python </li>
+        <li>Embedded Linux, Eclipse, IAR, Code Composer</li>
+        <li>LT spice, Mentor Graphics</li>
+        <li>Arduino, Beagle Bone, CC1110, MSP430, TMS320, ARM7, Atmega, Xmega</li>
+    </ul>
+    <h4><ins>Signal Analysis</ins></h4>
+    <ul>
+        <li>LabView, Matlab, Simulink </li>
+    </ul>
     <h4><ins>Web Development</ins></h4>
     <ul>
         <li>HTML</li>
         <li>CSS</li>
         <li>PHP</li>
-    </ul>
-    <h4><ins>Embedded Systems</ins></h4>
-    <ul>
-        <li>C, C++, Python </li>
-        <li>Embedded Linux, Eclipse, IAR, Code Composer</li>
-        <li>Mentor Graphics schematic design</li>
-        <li>LT spice</li>
-        <li>CC1110, MSP430, TMS320, ARM7, Atmega, Xmega</li>
-    </ul>
-    <h4><ins>Data Analysis</ins></h4>
-    <ul>
-        <li>LabView, Matlab </li>
     </ul>
 </div>
 
@@ -61,7 +60,7 @@ h2{
   <h3>Queens University, <small>Kingston Ontario</small></h3>
   <h4>Research Assistant &nbsp;&nbsp;(2016 &mdash; Present)</h4>
   <ul>
-    <li>Developing IMU localization algorithms</li>
+    <li>Currently developing IMU localization algorithms</li>
     <li>Embedded software development</li>
   </ul>
 
@@ -71,8 +70,9 @@ h2{
   <h4>Support Engineer &nbsp;&nbsp;(2012 &mdash; 2015)</h4>
   <ul>
     <li>Embedded Hardware and software development</li>
-    <li>Developed Quality Assurance and automation tools</li>
-    <li>Quick software prototyping using LabView</li>
+    <li>Developed Quality Assurance tools. 
+    <li>Developed Automation tools (Instrument control, data acquisition, graghing)</li>
+    <li>Developed quick software prototypes for concept verification</li>
     <li>Setup lab experiments for data collection and analysis</li>
   </ul>
 
@@ -81,7 +81,7 @@ h2{
   <h3>Heka Electronics, <small>Chester, NS</small></h3>
   <h4>Hardware & Software Developer &nbsp;&nbsp;(2011)</h4>
   <ul>
-    <li>Firmware development of biomedial instrumentation</li>
+    <li>Developed firmware for biomedial instrumentation</li>
   </ul>
 
   <br>
@@ -89,7 +89,7 @@ h2{
   <h3>Xeos Tech, <small>Bedford, NS</small></h3>
   <h4>Electrical Engineer &nbsp;&nbsp;(2010)</h4>
   <ul>
-    <li>Firmware development of radio beacons (telemetry)</li>
+    <li>Devloped sensor firmware for telemetry instrumentation</li>
   </ul>
 
   <br>
@@ -99,7 +99,7 @@ h2{
   <ul>
     <li>Developed Spectrometer software (data acquisition and processing )</li>
     <li>Developed sun/moon tracking software using openCV computer vision library</li>
-    <li>Optic assembly and mechanical parts design</li>
+    <li>Designed mechanical parts for optical breadboard assembly</li>
   </ul>
 
   <br>
@@ -107,7 +107,7 @@ h2{
   <h3>Cape Breton University, <small>Sydney, NS</small></h3>
   <h4>Jr. Engineer (co-op) &nbsp;&nbsp;(2008)</h4>
   <ul>
-    <li>Writing Matlab and LabView programs</li>
+    <li>Developed OLE Process Control (OPC) control application using Matlab simulink</li>
   </ul>
 
   <h3>Shell, <small>Calgary, Alberta</small></h3>
