@@ -70,7 +70,7 @@ h2{
   <h4>Support Engineer &nbsp;&nbsp;(2012 &mdash; 2015)</h4>
   <ul>
     <li>Embedded Hardware and software development</li>
-    <li>Developed Quality Assurance tools. 
+    <li>Developed Quality Assurance tools</li>
     <li>Developed Automation tools (Instrument control, data acquisition, graghing)</li>
     <li>Developed quick software prototypes for concept verification</li>
     <li>Setup lab experiments for data collection and analysis</li>
